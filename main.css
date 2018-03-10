@@ -1,0 +1,27 @@
+body {
+    font-family: Oswald, "Microsoft Yahei", Arial, Helvetica, sans-serif;
+}
+
+.blog-header {
+    padding: 16px;
+    line-height: 1;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.blog-title {
+    text-transform: uppercase;
+    line-height: 1em;
+}
+
+.blog-description {
+    color: #a6a6a6;
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+a:hover {
+    text-decoration:none;
+    color:inherit;
+    cursor:pointer;
+}
